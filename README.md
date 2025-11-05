@@ -1,4 +1,4 @@
-E-Commerce Customer Segmentation using Apache Spark and Streamlit
+E-Commerce Customer Segmentation using Apache Spark & Streamlit
 1. Overview
 
 This project focuses on customer segmentation using RFM (Recency, Frequency, Monetary) analysis with Apache Spark for distributed data processing and Streamlit for interactive visualization.
@@ -125,7 +125,21 @@ This project demonstrates how big data tools like Apache Spark can efficiently h
 By combining RFM analysis, K-Means clustering, and Streamlit visualization, businesses can make informed decisions, enhance marketing strategies, and strengthen customer engagement.
 
 11. Project Images
+
+   <img width="1690" height="353" alt="Screenshot 2025-11-04 112804" src="https://github.com/user-attachments/assets/4f79a24e-8777-405b-96d3-b39e3fcb07da" />
+
    <img width="1811" height="859" alt="Screenshot 2025-11-04 112136" src="https://github.com/user-attachments/assets/95d53827-66ff-43cb-b5ef-7a86f8704e7d" />
+   <img width="1805" height="687" alt="Screenshot 2025-11-04 112304" src="https://github.com/user-attachments/assets/2178b439-c70e-43f3-92ed-6938659afe22" />
+   <img width="1779" height="751" alt="Screenshot 2025-11-04 112352" src="https://github.com/user-attachments/assets/85c4a209-fc0a-455a-bfe1-ec21f9c5495d" />
+   <img width="1765" height="559" alt="Screenshot 2025-11-04 112435" src="https://github.com/user-attachments/assets/7b3d7998-121c-466c-a4b8-9cddc124bafb" />
+   <img width="1715" height="637" alt="Screenshot 2025-11-04 112603" src="https://github.com/user-attachments/assets/93dc6d4f-e090-4476-81b5-a265be4a5e8f" />
+
+   example Downloaded csv.file
+   <img width="388" height="154" alt="Screenshot 2025-11-04 112630" src="https://github.com/user-attachments/assets/5db1dcf8-4366-4273-a0f7-80ff8b5fc57f" />
+
+
+
+
 
    
 
