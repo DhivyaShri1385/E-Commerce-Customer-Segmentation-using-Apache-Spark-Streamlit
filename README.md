@@ -95,13 +95,17 @@ http://localhost:4040
 EcommerceSegmentation/
 │
 ├── data.csv
+
 ├── pyspark_pipeline.py
+
 ├── app.py
+
 ├── clustered_output/
+
    └── clustered_output.csv
 
 
-8. Results and Output
+9. Results and Output
 
 The output file clustered_output.csv contains segmented customer data with assigned cluster labels.
 
