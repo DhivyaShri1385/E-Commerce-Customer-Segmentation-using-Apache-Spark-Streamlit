@@ -93,7 +93,9 @@ http://localhost:4040
 
 7. Folder Structure
 EcommerceSegmentation/
+
 │
+
 ├── data.csv
 
 ├── pyspark_pipeline.py
