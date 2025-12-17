@@ -1,0 +1,10 @@
+pandas
+streamlit
+plotly
+pyspark
+requests
+numpy
+streamlit-option-menu
+scikit-learn
+streamlit-authenticator
+bokeh

@@ -1,0 +1,18 @@
+cookie:
+  expiry_days: 1
+  key: some_random_signature_key
+  name: ecommerce_dashboard_cookie
+credentials:
+  usernames:
+    admin:
+      email: admin@ecommerce.com
+      logged_in: false
+      name: Admin User
+      password: $2b$12$6sFl90cYxRMwoIBKsSXDw.8.R41uV9n.yjZLAMxL/Br/hpwONOaWW
+      role: admin
+    analyst:
+      email: analyst@ecommerce.com
+      logged_in: false
+      name: Data Analyst
+      password: $2b$12$sIxiLvgvnsaiHcU8YBtMcOfuEOJXwV5SVqkmWyDu2gC6c6BZaoPlm
+      role: analyst
